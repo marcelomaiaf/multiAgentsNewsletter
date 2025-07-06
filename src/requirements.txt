@@ -1,0 +1,4 @@
+openai-agents
+firecrawl-py
+elevenlabs
+boto3
